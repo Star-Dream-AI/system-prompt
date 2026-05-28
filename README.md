@@ -2,7 +2,7 @@
 Here is the list of system prompts for the Emotion and Fan-Character Card systems, submitted by the Star Dream AI Team. <br>
 此列表收录了星梦AI团队成员提交的所有开源AI角色卡系统提示词，你可以自行部署到你自己的AI并进行使用，本仓库使用GNU General Public License v3.0协议授权 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/License-GPL-3.0-pink" alt="License GPL-3.0" />
+  <img src="https://img.shields.io/badge/License-GPL-v3.0-pink" alt="License GPL-3.0" />
   <img src="https://img.shields.io/github/stars/Star-Dream-AI/system-prompt?style=social&color=ff69b4" alt="GitHub Stars" />
 </div>
 <br>
