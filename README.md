@@ -7,6 +7,7 @@ Here is the list of system prompts for the Emotion and Fan-Character Card system
 </div>
 <br>
 加入Telegram讨论群星梦茶馆以反馈提示词问题、提出建议等：https://t.me/stardreamchat
+
 ## 不想自己部署？直接在这些平台使用，费用按聊天次数收取
 
 | 平台 | 支持度 | Star Dream主页链接 | 价格 |
