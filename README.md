@@ -20,6 +20,7 @@ Here is the list of system prompts for the AI Character Card, submitted by the S
 | 可爱温柔女友 | [![@stardreamlight_bot MAU](https://tgbotmau.quoi.dev/api/bot/stardreamlight_bot/mau/badge?style=flat "@stardreamlight_bot MAU")](https://tgbotmau.quoi.dev/?bot=stardreamlight_bot) | [@stardreamlight_bot](https://t.me/stardreamlight_bot) |
 | 林晚秋 | [![@wanqiusisbot MAU](https://tgbotmau.quoi.dev/api/bot/wanqiusisbot/mau/badge?style=flat "@wanqiusisbot MAU")](https://tgbotmau.quoi.dev/?bot=wanqiusisbot) | [@wanqiusisbot](https://t.me/wanqiusisbot) |
 | 椎名真昼 | [![@aizmzz_bot MAU](https://tgbotmau.quoi.dev/api/bot/aizmzz_bot/mau/badge?style=flat "@aizmzz_bot MAU")](https://tgbotmau.quoi.dev/?bot=aizmzz_bot) | [@aizmzz_bot](https://t.me/aizmzz_bot) |
+| Yuki妹妹 | [![@yukiqwq_bot MAU](https://tgbotmau.quoi.dev/api/bot/yukiqwq_bot/mau/badge?style=flat "@yukiqwq_bot MAU")](https://tgbotmau.quoi.dev/?bot=yukiqwq_bot) | [@yukiqwq_bot](https://t.me/yukiqwq_bot) |
 
 
 ## 也可以直接在这些平台使用，费用按聊天次数收取，由官方维护，更新较慢
