@@ -32,4 +32,4 @@ Here is the list of system prompts for the AI Character Card, submitted by the S
 | DZMM | 纯文字对话 | [主页链接](https://www.dzmm.io/user/e50b819b-218c-46bd-a8fc-0e9ed7d37eb1) | 每天签到积分还可以、价格中等 |
 
 ## 自行部署推荐
-可打开任意角色的.md文件并将其下载到你的电脑，推荐使用 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 部署，将喜欢的角色的系统提示词放进人设里 <br>
+可打开任意角色的.md文件并将其下载到你的电脑，推荐使用 [AstrBot]([https://www.xmlans.com/python/astrbotinstall.html](https://www.xmlans.com/python/astrbotinstall.html)) 部署，将喜欢的角色的系统提示词放进人设里 <br>
