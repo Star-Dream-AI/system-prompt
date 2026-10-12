@@ -33,3 +33,4 @@ Here is the list of system prompts for the AI Character Card, submitted by the S
 
 ## 自行部署推荐
 可打开任意角色的.md文件并将其下载到你的电脑，推荐使用 [AstrBot]([https://www.xmlans.com/python/astrbotinstall.html](https://www.xmlans.com/python/astrbotinstall.html)) 部署，将喜欢的角色的系统提示词放进人设里 <br>
+星梦现在也有一个免费云酒馆平台啦，通过用你自己的API Key就可以和角色聊天哦 [https://ai.xmyun.org](https://ai.xmyun.org)
